@@ -1,2 +1,2 @@
 # Library-Python
-### A Simple Online Shopping Python Application
+### Library Application Created Using Python
